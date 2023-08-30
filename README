@@ -1,9 +1,28 @@
-a) Features in the handout that you have implemented :
-All the required features in the handout have beimplemented
+Comprehensive HTTP Server Project
+Welcome to the Comprehensive HTTP Server project! This repository houses a fully functional HTTP server that offers a wide range of features and capabilities. From facilitating web visits to performing identity checks, this server project covers an array of functionalities to meet your web server needs.
 
-b) Features in the handout that you have not implemented
-Null
+Key Features
+Web Visitation: This server project provides the infrastructure to host and serve websites. With robust routing mechanisms, it ensures that visitors can easily access the hosted content.
 
-c) Extra features
-favicon.ico
-multiple passward login
+Identity Verification: Built-in identity checks enhance security, allowing the server to validate users and ensure secure interactions between clients and the server.
+
+Client-Side Directory Browsing: The server goes beyond serving static files by enabling client-side directory browsing. Users can navigate directories and access files intuitively through their web browser.
+
+Expressive File Rendering: The server takes file extensions into account when rendering content. Different file types are served in distinctive ways, ensuring an optimal experience for various media types.
+
+Multi-Threaded Architecture: The server employs a multi-threaded approach to handle multiple clients concurrently. This ensures efficient resource utilization and responsive interactions, even under high load.
+
+Server Logs Generation: Detailed server logs are automatically generated, providing insights into server activity, requests, and responses. These logs are valuable for monitoring and troubleshooting.
+
+Usage
+Web Hosting: Upload your website's content to the server's designated directories. The server will ensure that your content is accessible through the appropriate URLs.
+
+Identity Verification: Utilize the built-in identity verification mechanisms to secure user interactions and protect sensitive data.
+
+Directory Browsing: Enable directory browsing to allow clients to explore the server's content through their web browsers.
+
+File Rendering: Experience tailored rendering based on file extensions, ensuring optimal display of various content types.
+
+Multi-Threaded Efficiency: The server's multi-threaded design automatically handles multiple clients simultaneously, optimizing resource usage and responsiveness.
+
+Server Logs: Review automatically generated server logs to gain insights into server activity and troubleshoot any issues that may arise.
