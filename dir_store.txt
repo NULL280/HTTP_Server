@@ -1,0 +1,23 @@
+Simple Test:
+http://data.cs.purdue.edu:32799/simple.html
+Complex Test:
+http://data.cs.purdue.edu:32799/complex.html
+
+Browsing dir1/:
+http://data.cs.purdue.edu:32799/dir1/
+Browsing dir:
+http://data.cs.purdue.edu:32799/dir1
+
+cgi-bin:
+http://data.cs.purdue.edu:32799/cgi-bin/test-env
+http://data.cs.purdue.edu:32799/cgi-bin/test-cgi
+http://data.cs.purdue.edu:32799/cgi-bin/finger
+http://data.cs.purdue.edu:32799/cgi-bin/jj
+
+Stat
+http://data.cs.purdue.edu:32799/stats
+Log
+http://data.cs.purdue.edu:32799/logs
+
+<a href="
+https://www.w3schools.com
